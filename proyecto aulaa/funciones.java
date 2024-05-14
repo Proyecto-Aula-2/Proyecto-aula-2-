@@ -173,9 +173,9 @@ public class funciones {
             System.out.println("la respuesta es: " + variables.respuesta_mesero + " esta fue ingresada por el mesero" + valornombre);
         }else if (variables.inf == 3) {
             System.out.println("la respuesta es: " + variables.respuesta_cocinero );
-        }else if (variables.inf == 3) {
+        }else if (variables.inf == 4) {
             System.out.println("la respuesta es: " + variables.respuesta_cocinero );
-        }else if (variables.inf == 3) {
+        }else if (variables.inf == 5) {
             String valorCajero = variables.personal.get("cajero");
             System.out.println("la respuesta es: " + valorCajero );
         }
